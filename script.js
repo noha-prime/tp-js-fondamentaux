@@ -3,7 +3,7 @@ const nom = "Dairi";
 let age = 16;
 
 const motDePasseAttendu = "secret123";
-let motDePasseUtilisateur = "12345"; // Changez cette valeur pour tester
+let motDePasseUtilisateur = "53214"; // Changez cette valeur pour tester
 
 if ("Comparaison entre motDePasseUtilisateur et motDePasseAttendu") {
     console.log("Accès autorisé. Bienvenue !");
